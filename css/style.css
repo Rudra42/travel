@@ -1,0 +1,791 @@
+/*header starts*/
+
+#header {
+    background-image: url(../images/BG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 430px;
+}
+
+
+
+
+.logo_branco {
+    margin-top: 16px !important;
+    margin-bottom: 16px !important;
+    width: 177px;
+    height: 145px;
+    padding: 0;
+}
+
+.custom_logo {
+    width: 177px;
+    height: 145px;
+}
+
+.dias-na-maravilhosa-Europa {
+    height: 132px;
+}
+
+.custom_head_text {
+    margin: 0;
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.75);
+    text-align: center;
+}
+
+/*header ends*/
+
+/* section2 starts*/
+
+/*card starts*/
+
+.Card-Base {
+    width: 130px;
+    height: 140px;
+    background-color: #ffffff;
+
+    box-shadow: 0 5px 35px 0 rgba(90, 97, 105, 0.1), 0 10px 22px 0 rgba(90, 97, 105, 0.1), 0 0 8px 0 rgba(90, 97, 105, 0.12), 0 0 3px 0 rgba(90, 97, 105, 0.11);
+    position: relative;
+    left: 0;
+    right: 0;
+    top: -79px;
+}
+
+.custom_icon {
+    margin: 11px auto;
+    height: 33px;
+}
+
+.Madri {
+    width: 96px;
+    border-bottom: .5px solid #979797;
+    height: 19px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3c3c3c;
+    text-align: center;
+    margin: 0;
+    margin-top: 10px;
+    padding-bottom: 28px;
+    margin-bottom: 3px;
+
+}
+
+.Espanha {
+    width: 96px;
+    height: 19px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+    text-align: center;
+}
+
+/*card ends*/
+
+.sectiontwo_text {
+    height: 71px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3c3c3c;
+    color: var(--greyish-brown);
+    text-align: center;
+    margin: 0;
+    margin-top: 13px;
+}
+
+.quote {
+    width: 687px;
+    height: 89px;
+    background-image: url(../images/quote.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 60px !important;
+}
+
+/* section2 ends*/
+
+/* section3 starts*/
+
+.card-base2 {
+    height: 140px;
+    background-color: #ffffff;
+    box-shadow: 0 5px 35px 0 rgba(90, 97, 105, 0.1), 0 10px 22px 0 rgba(90, 97, 105, 0.1), 0 0 8px 0 rgba(90, 97, 105, 0.12), 0 0 3px 0 rgba(90, 97, 105, 0.11);
+    margin-bottom: 60px !important;
+}
+
+.destinos {
+    width: 131px;
+    text-align: center;
+    height: 30px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+    margin-top: 5px;
+}
+.destinos_2 {
+    width: 131px;
+    text-align: center;
+    height: 30px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+    margin-top: 8px;
+}
+
+.three {
+    height: 31px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3c3c3c !important;
+    color: var(--greyish-brown);
+    padding-right: 4px;
+}
+
+.R-282700 {
+    height: 64px;
+    font-family: Roboto;
+    font-size: 54px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+    margin-bottom: 30px;
+}
+
+.Por-pessoa {
+    height: 22px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+
+}
+
+.Rectangle {
+    height: 50px;
+    background-color: #00bdbb;
+    margin-bottom: 60px;
+}
+
+.RESERVAR-AGORA {
+    height: 22px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 16px;
+
+}
+
+/* section3 ends*/
+
+/*section 4 starts*/
+
+.section4_class {
+    min-height: 4325px;
+    background-color: #ffffff;
+   box-shadow: 0px 15px 20px 5px rgba(90, 97, 105, 0.1);
+}
+.top_margin{
+    margin-top: 30px;
+}
+.top_margin_35{
+    margin-top: 35px;
+}
+.top_margin_50{
+    margin-top: 50px;
+}
+.top_margin_3{
+    margin-top: 3px;
+}
+.m_btm_20{
+    margin-bottom: 20px;
+}
+.m_b_5{
+    margin-bottom: 5px;
+}
+.m_top_10{
+    margin-top: 10px;
+}
+.m_top_15{
+    margin-top: 15px;
+}
+.m_85{
+    margin-bottom: 85px;
+}
+.m_75{
+    margin-bottom: 75px;
+}
+
+.madri_icon_div {
+    width: 50px;
+    margin: 0 auto;
+}
+
+.madri_icon {
+    height: 47px;
+    width: 50px;
+    margin-bottom: 15px;
+}
+
+.Madri_h {
+    height: 40px;
+    font-family: Roboto;
+    font-size: 34px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+}
+
+.city_img {}
+
+.maddri_text {
+    height: 253px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+}
+.padding_30{
+    padding: 0 30px;
+}
+.padding_r_30{
+    padding-right: 30px;
+}
+.padding_20{
+    padding: 0 20px;
+}
+.madri_padding {
+    padding-bottom: 37px;
+}
+
+.hr_position1 {
+    margin: 0;
+    border: 1px solid #DADADA;
+}
+.fix{
+    float: right;
+    margin: 0 30px;
+}
+.line_gap{
+    margin-bottom: 65px;
+}
+.hr_img_position {
+    margin-top: 10px !important;
+    height: 50px;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: -35px;
+}
+
+.bed_placing {
+    padding-bottom: 35px;
+    margin-top: 15px;
+}
+
+.vertice {
+    height: 22px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+    margin: 0;
+}
+
+.vertice_text {
+    height: 78px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.cutom_moon_text {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+}
+.im_pos{
+    padding-left: 50px;
+}
+.img_size {
+    width: 330px;
+}
+
+.custom_moon {
+    height: 12px;
+    margin-right: 7px;
+}
+
+.sofa_center {}
+
+
+/*section 4 ends*/
+
+/*service starts*/
+
+.service_header {
+    height: 29px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+}
+
+.service_text {
+
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+}
+
+.Tradicional {
+    height: 19px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+}
+
+.service_rectangle {
+    padding-bottom: 2px;
+    min-height: 180px;
+    border-radius: 4px;
+    background-color: #00bdbb;
+}
+
+.user_img {
+    position: relative;
+    left: 0;
+    right: 0;
+    top: -20px;
+    height: 50px;
+}
+
+.service_text2 {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+.sofa_bottom{
+    margin-bottom: 20px;
+}
+.tour {
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.m_b_20{
+    margin-bottom: 20px;
+}
+.padd_45{
+    padding-right: 45px;
+}
+.bus_size {
+    width: 180px;
+    height: 120px;
+}
+
+.bus_head_text {
+    height: 16px;
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+}
+
+.bus_text {
+    height: 75px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+}
+
+.one {
+    height: 40px;
+    width: 40px;
+    background-color: #00bdbb;
+    border-radius: 25px;
+   
+}
+
+.custom_one {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    padding: 5px 5px;
+}
+
+.dot_line {
+    width: 0px;
+    height: 1358px;
+    border: dashed 1px #dadada;
+}
+
+.chegada {
+    height: 22px;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+    margin: 0;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+.chegada_text {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+    margin: 0;
+
+}
+
+.custom_bus {
+    padding-left: 0 !important;
+}
+
+.rs {
+    width: 118px;
+    height: 29px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+    margin-right: 25px;
+ 
+}
+
+.custom_btn {
+    width: 119px;
+    height: 29px;
+    border-radius: 4px;
+    background-color: #c4c4c4;
+}
+
+.incluso {
+    height: 15px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin: 0;
+}
+
+.add {
+    height: 15px;
+}
+
+.custom_btn2 {
+    width: 250px;
+    height: 36px;
+    border-radius: 4px;
+    background-color: #00bdbb;
+    margin-bottom: 20px;
+}
+
+.incluso2 {
+    height: 19px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-bottom: 15px;
+    ;
+}
+
+.avianca {
+    height: 38px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+    margin-bottom: 15px;
+}
+
+/*service ends*/
+
+/*section5 starts*/
+
+.sevicos {
+    height: 33px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #00bdbb;
+    margin-top: 60px !important;
+    margin-bottom: 40px !important;
+}
+
+.user_image {
+    height: 200px;
+    width: 200px;
+    border: 4px solid #00bdbb;
+    border-radius: 50%;
+}
+
+.user_border {
+    border-top: 2px solid #DADADA;
+    border-bottom: 2px solid #DADADA;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.user_text {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+}
+
+.same {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+    margin-top: 10px;
+}
+
+.same_h {
+    margin-right: 10px;
+    color: #00bdbb;
+    font-size: 23px;
+}
+
+.same_g {
+    margin-right: 20px;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.bee{}
+.bee img{
+    height: 90px;
+}
+.icon{
+        padding: 30px 0;
+}
+.icon img{
+
+}
+.text{
+    font-family: Roboto;
+    font-size: 14px;
+     color: #979797;
+}
+.p_r_0{
+    padding-right: 0;
+}
+.p_l_0{
+    padding-left: 0;
+}
+
+
+
+/*section5 ends*/
+
+/*line css*/
+.agora_top{
+    margin-top: 35px ;
+}
+.destinos_width{
+    width: 197px;    
+}
+.cutom_moon_text_height{
+    height: 25px;
+}
+.Tradicional_bottom_50{
+    margin-bottom: 50px;
+}
+.chegada_margitn_top_15{
+    margin-top: 15px;
+}
+.chegada_margitn_btm_25{
+    margin-bottom: 25px;
+}
+.map_padding{
+    padding-left: 0;
+}
+.m_top40{
+    margin-top: 40px;
+}
+.custom_btn_background{
+    background-color: #00bdbb;
+}
+.span_right{
+    margin-right:6px;
+}
+.chegada_35{
+    margin-top: 35px;
+}
+.m_btm_15{
+    margin-bottom: 15px;
+}
+.avianca_weight{
+    font-weight: bold;
+}
+.avianca_color{
+    color: #00bdbb;
+}
+.avianca_color_right{
+   margin-right: 7px;
+}
+.tour_margitn_top_25{
+    margin-top: 25px;
+}
+
+
+

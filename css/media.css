@@ -1,0 +1,736 @@
+@media (max-width: 375.96px) {
+
+    .cutom_moon_text {
+        font-size: 12px;
+    }
+
+    .padding_30 {
+        text-align: center;
+    }
+    .sectiontwo_text {
+        padding: 0 30px;
+    }
+
+    .bed_placing {
+        margin-top: 45px;
+    }
+
+    .custom_head_text {
+        font-size: 34px;
+    }
+    .Card-Base {
+        width: 98px;
+        height: 130px;
+        top: -98px;
+    }
+    .sectiontwo_text {
+        font-size: 14px;
+    }
+    .three {
+        font-size: 18px;
+    }
+    .destinos {
+        font-size: 8px;
+    }
+    .R-282700 {
+        font-size: 22px;
+    }
+    .Rectangle {
+        margin-bottom: 30px;
+    }
+    .city_img {
+        text-align: center;
+        margin-bottom: 18px;
+    }
+    .Madri_h {
+        text-align: center;
+    }
+    .maddri_text {
+        margin-bottom: 400px;
+        text-align: center;
+    }
+    .madri_icon {
+        margin-bottom: 18px;
+    }
+
+    .img_size {
+        width: 330px;
+        margin-bottom: 15px;
+    }
+    .sofa_center {
+        text-align: center;
+    }
+    .service_text {}
+    .vertice_text {
+        font-size: 11px;
+    }
+    .service_rectangle {
+        margin-bottom: 40px;
+    }
+    .bus_size {
+        margin-bottom: 18px;
+        margin-top: 18px;
+    }
+    .bus_head_text {
+        margin-bottom: 18px;
+        margin-top: 18px;
+    }
+    .bus_text {
+        margin-bottom: 78px;
+    }
+    .dot_line {
+        display: none;
+    }
+    .one {
+        display: none;
+    }
+    .chegada_text {
+        margin-bottom: 35px;
+        padding: 0 30px;
+    }
+    .chegada {
+        text-align: center !important;
+        margin: 12px auto;
+    }
+    .avianca {
+        font-size: 16px;
+    }
+    .custom_btn2 {
+        margin-bottom: 15px;
+    }
+    .user_text {
+        font-size: 19px;
+    }
+    .tour {
+        font-size: 22px;
+    }
+    .hr_position1 {
+        display: none;
+    }
+    .hr_img_position {
+        display: none;
+    }
+    .icon {
+        padding: 10px 0;
+        text-align: center;
+    }
+    .bee img {
+        height: 70px;
+    }
+    .quote {
+        background-position: center;
+    }
+    .user_image {
+        border-radius: 50%;
+        height: 200px;
+        width: 200px;
+    }
+    .sevicos {
+        font-size: 20px;
+    }
+    .hr_img_position {
+        height: 30px;
+        left: 0;
+        right: 0 top: -25px;
+    }
+    .same {
+        font-size: 11px;
+    }
+    .rs {
+        margin-left: 35px;
+    }
+    .destinos_2 {
+        font-size: 8px;
+    }
+    .three {
+        font-size: 15px;
+    }
+    .padding_r_30 {
+        padding-right: 0;
+    }
+    .fix {
+        float: none;
+        margin: 0 0;
+    }
+            .top_margin {
+        margin-top: 25px;
+    }
+    .m_b_5{
+    margin-bottom: -40px;
+}
+    .top_margin_50{
+    margin-top: -45px;
+}
+    .top_margin_35{
+    margin-top: -95px;
+}
+    .map_padding{
+   padding-left:15px !important; 
+}
+
+}
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+
+@media (min-width: 375.98px) and (max-width: 575.96px) {
+    .padding_30 {
+        text-align: center !important;
+    }
+    .bed_placing {
+        margin-top: 85px;
+    }
+    .sectiontwo_text {
+        padding: 0 35px;
+    }
+
+    .custom_head_text {
+        font-size: 34px;
+    }
+    .Card-Base {
+        width: 110px;
+        height: 132px;
+        top: -98px;
+    }
+    .Madri{
+        
+    }
+    .Espanha {
+        
+    }
+    .sectiontwo_text {
+        font-size: 14px;
+    }
+    .three {
+        font-size: 18px;
+    }
+    .destinos {
+        font-size: 8px;
+    }
+    .R-282700 {
+        font-size: 28px;
+        margin-bottom: 18px;
+    }
+    .Rectangle {
+        margin-bottom: 30px;
+    }
+    .city_img {
+        text-align: center;
+        margin-bottom: 18px;
+    }
+    .Madri_h {
+        text-align: center;
+    }
+    .maddri_text {
+        text-align: center;
+        margin-bottom: 270px;
+    }
+    .madri_icon {
+        margin-bottom: 18px;
+    }
+
+    .img_size {
+        width: 330px;
+        margin-bottom: 15px;
+    }
+    .sofa_center {
+        text-align: center;
+    }
+    .service_text {}
+    .vertice_text {
+        height: 90px;
+        font-size: 12px;
+    }
+    .service_rectangle {
+        margin-bottom: 40px;
+    }
+    .bus_size {
+        margin-bottom: 18px;
+        margin-top: 0px;
+    }
+    .bus_head_text {
+        margin-bottom: 18px;
+        margin-top: 18px;
+    }
+    .bus_text {
+        margin-bottom: 18px;
+        margin-top: 18px;
+    }
+    .dot_line {
+        display: none;
+    }
+    .one {
+        display: none;
+    }
+    .chegada_text {
+        margin-bottom: 35px;
+        padding: 0 30px;
+    }
+    .chegada {
+        text-align: center !important;
+        margin: 2px auto;
+    }
+    .avianca {
+        font-size: 16px;
+    }
+    .custom_btn2 {
+        margin-bottom: 15px;
+    }
+    .user_text {
+        font-size: 19px;
+    }
+    .tour {
+        font-size: 22px;
+    }
+    .hr_position1 {
+        display: none;
+    }
+    .hr_img_position {
+        display: none;
+    }
+    .icon {
+        padding: 10px 0;
+        text-align: center;
+    }
+    .bee img {
+        height: 70px;
+    }
+    .quote {
+        background-position: center;
+    }
+    .user_image {
+        border-radius: 50%;
+        height: 200px;
+        width: 200px;
+    }
+    .bus_head_text {
+        font-size: 18px;
+    }
+    .bus_text {
+        font-size: 16px;
+    }
+    .hr_img_position {
+        height: 30px;
+        left: 0;
+        right: 0;
+        top: -25px;
+    }
+    .same {
+        font-size: 13px;
+    }
+    .cutom_moon_text {
+        font-size: 12px;
+    }
+    .rs {
+        margin-left: 65px;
+    }
+    .destinos_2 {
+        font-size: 8px;
+    }
+    .padding_r_30 {
+        padding-right: 0;
+        margin-top: 20px;
+    }
+    .fix {
+        float: none;
+        margin: 0 0;
+    }
+        .top_margin {
+        margin-top: 0;
+    }
+    .m_b_5{
+    margin-bottom: -40px;
+}
+    .top_margin_50{
+    margin-top: -45px;
+}
+    .top_margin_35{
+    margin-top: -95px;
+}
+    .m_top40{
+    margin-top: 40px !important;
+}
+    .map_padding{
+   padding-left:15px !important; 
+}
+
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .custom_head_text {
+        font-size: 38px;
+    }
+    .Card-Base {
+        top: -96px;
+    }
+    .three {
+        font-size: 18px;
+    }
+    .destinos {
+        font-size: 10px;
+    }
+    .R-282700 {
+        font-size: 27px;
+        margin-bottom: 0px;
+    }
+    .RESERVAR-AGORA {
+        font-size: 13px;
+    }
+    .maddri_text {
+        font-size: 12px;
+    }
+    .vertice_text {
+        height: 112px;
+        font-size: 12px;
+    }
+    .cutom_moon_text {
+        font-size: 10px;
+    }
+    .service_rectangle {
+        margin-top: 50px;
+        padding-bottom: 1px;
+    }
+    .service_text {
+        height: 238px;
+        font-size: 11px
+    }
+    .vertice {
+        height: 45px;
+    }
+    .bus_head_text {
+        font-size: 16px;
+    }
+    .bus_text {
+        font-size: 11px;
+    }
+    .custom_btn2 {
+        width: 145px;
+    }
+    .avianca {
+        font-size: 16px;
+    }
+    .user_text {
+        font-size: 12px;
+    }
+    .tour {
+        font-size: 22px;
+        margin-top: 0px !important;
+    }
+    .same {
+        font-size: 9px;
+    }
+    .madri_padding {
+        padding-bottom: 0px;
+    }
+    .dot_line {
+        height: 1553px;
+    }
+    .one {
+        height: 30px;
+        width: 30px;
+        padding-top: 7px;
+    }
+    .custom_one {
+        font-size: 15px;
+        padding: 0px 5px;
+    }
+    .bus_size {
+        width: 100px;
+        height: 90px;
+    }
+    .hr_img_position {
+        height: 30px;
+        left: 0;
+        right: 0;
+        top: -25px;
+    }
+    .top_margin {
+        margin-top: 0px;
+    }
+    .top_margin_3 {
+        margin-top: 0px;
+    }
+    .bee img {
+        height: 75px;
+    }
+    .user_image {
+        height: 125px;
+        width: 125px;
+    }
+    .img_fix {
+        height: 280px;
+        width: 260px;
+    }
+    .img_size {
+        margin-top: 75px;
+    }
+    .quote {
+        background-position: center;
+    }
+    footer {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .bee img {
+        height: 46px;
+    }
+    .text {
+        font-size: 12px;
+    }
+    .rs {
+        margin-left: 75px;
+    }
+    .custom_btn {
+        margin-left: 75px;
+    }
+    .destinos_2 {
+        font-size: 10px;
+    }
+    .fix {
+        margin: 0 12px;
+    }
+    .top_margin {
+        margin-top: 0;
+    }
+    .m_85 {
+        margin-bottom: 50px;
+    }
+    .m_75 {
+        margin-bottom: -28px;
+    }
+    .m_b_5 {
+        margin-bottom: -27px;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .custom_head_text {
+        font-size: 42px;
+    }
+    .Card-Base {
+        top: -103px;
+    }
+    .R-282700 {
+        font-size: 34px;
+        margin-bottom: 8px;
+    }
+    .maddri_text {
+        width: 364px;
+        font-size: 11px;
+    }
+    .cutom_moon_text {
+        font-size: 10px;
+    }
+    .vertice_text {
+        height: 90px;
+        font-size: 12px;
+    }
+    .service_rectangle {
+        margin-top: 25px;
+        padding-bottom: 1px;
+    }
+    .bus_head_text {
+        font-size: 18px;
+    }
+    .bus_text {
+        font-size: 11px;
+    }
+
+    .custom_btn2 {
+        width: 155px;
+    }
+    .avianca {
+        font-size: 16px;
+    }
+    .user_text {
+        font-size: 14px;
+    }
+    .tour {
+        font-size: 22px;
+        margin-top: 0px !important;
+    }
+    .same {
+        font-size: 15px;
+    }
+
+    .madri_padding {
+        padding-bottom: 0px;
+    }
+    .dot_line {
+        height: 1535px;
+    }
+    .one {
+        height: 30px;
+        width: 30px;
+        padding-top: 7px;
+    }
+    .custom_one {
+        font-size: 15px;
+        padding: 0px 5px;
+    }
+    .bus_size {
+        width: 100px;
+        height: 90px;
+    }
+    .hr_img_position {
+        height: 30px;
+        left: 0;
+        right: 0;
+        top: -25px;
+    }
+    .top_margin {
+        margin-top: 0px;
+    }
+    .top_margin_3 {
+        margin-top: 0px;
+    }
+    .user_image {
+        height: 135px;
+        width: 135px;
+    }
+    .text {
+        font-size: 13px;
+    }
+    .bee img {
+        height: 55px;
+    }
+    .img_fix {
+        height: 260px;
+        width: 260px;
+    }
+    .img_size {
+        margin-top: 55px;
+    }
+    .icon {
+        padding: 15px 0;
+    }
+    footer {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .rs {
+        margin-left: 80px;
+    }
+    .custom_btn {
+        margin-left: 80px;
+    }
+    .fix {
+        margin: 0 13px;
+    }
+    .top_margin {
+        margin-top: 0;
+    }
+    .m_85 {
+        margin-bottom: 50px;
+    }
+    .m_75 {
+        margin-bottom: -28px;
+    }
+    .m_b_5 {
+        margin-bottom: -27px;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .custom_head_text {
+        font-size: 44px;
+    }
+    .Card-Base {
+        top: -88px;
+        width: 118px;
+    }
+    .R-282700 {
+        font-size: 49px;
+        margin-bottom: 12px;
+    }
+    .maddri_text {
+        font-size: 14px;
+    }
+    .cutom_moon_text {
+    }
+    .vertice_text {
+        height: 92px;
+    }
+    .bus_head_text {
+        font-size: 20px;
+    }
+    .bus_text {
+        font-size: 14px;
+    }
+    .chegada {
+        margin-bottom: 33px;
+    }
+    .custom_btn2 {
+        width: 185px;
+    }
+    .avianca {
+        font-size: 16px;
+    }
+    .user_text {
+        font-size: 17px;
+    }
+    .tour {
+        font-size: 25px;
+        margin-top: 0px !important;
+    }
+    .service_text {
+        font-size: 12px;
+    }
+    .chegada_text {
+        font-size: 12px;
+    }
+    .bed_placing {
+        padding-bottom: 35px;
+        margin-top: 15px;
+    }
+    .madri_padding {
+        padding-bottom: 5px;
+    }
+    .dot_line {
+        height: 1293px;
+    }
+    .top_margin {
+        margin-top: 20px;
+    }
+    .user_image {
+        height: 150px;
+        width: 150px;
+    }
+    .img_fix {
+        height: 264px;
+        width: 270px;
+    }
+    .service_rectangle {
+        padding-bottom: 1px;
+    }
+    .rs {
+        margin-left: 83px;
+    }
+    .custom_btn {
+        margin-left: 83px;
+    }
+    .fix {
+        margin: 0 15px;
+    }
+    .top_margin {
+        margin-top: 0;
+    }
+    .m_85 {
+        margin-bottom: 60px;
+    }
+    .m_75 {
+        margin-bottom: 50px;
+    }
+    .m_b_5 {
+        margin-bottom: 0;
+    }
+    /* Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1200px) {}
